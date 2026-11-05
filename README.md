@@ -4,7 +4,7 @@
 
 下記リンクを参考に実行しました
 
-[](https://www.softbank.jp/biz/blog/cloud-technology/articles/202412/3d-gaussian-splatting/)
+https://www.softbank.jp/biz/blog/cloud-technology/articles/202412/3d-gaussian-splatting/
 
 ## My environment
 
