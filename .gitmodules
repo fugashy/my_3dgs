@@ -10,3 +10,6 @@
 [submodule "submodules/supersplat"]
 	path = submodules/supersplat
 	url = https://github.com/playcanvas/supersplat.git
+[submodule "submodules/gaussian_splatting_3d"]
+	path = submodules/gaussian_splatting_3d
+	url = https://github.com/mkkellogg/GaussianSplats3D.git
