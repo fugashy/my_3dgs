@@ -35,3 +35,7 @@ I installed following programs then use in my script run.bash
 - GaussianSplats3D
 
   https://github.com/mkkellogg/GaussianSplats3D
+
+- libtorch
+
+  version 2.5.1
