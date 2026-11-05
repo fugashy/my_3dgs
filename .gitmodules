@@ -7,3 +7,6 @@
 [submodule "submodules/gaussian-splatting"]
 	path = submodules/gaussian-splatting
 	url = https://github.com/graphdeco-inria/gaussian-splatting.git
+[submodule "submodules/supersplat"]
+	path = submodules/supersplat
+	url = https://github.com/playcanvas/supersplat.git
