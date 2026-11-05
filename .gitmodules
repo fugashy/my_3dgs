@@ -4,3 +4,6 @@
 [submodule "submodules/opensplat"]
 	path = submodules/opensplat
 	url = https://github.com/pierotofy/OpenSplat.git
+[submodule "submodules/gaussian-splatting"]
+	path = submodules/gaussian-splatting
+	url = https://github.com/graphdeco-inria/gaussian-splatting.git
